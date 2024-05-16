@@ -44,6 +44,7 @@ taha
 - [gari sa limana](https://github.com/babadroga92)
 - [Omid Khosrowshahli](https://github.com/Omid-Khosrowshahli)
 - [IyiOluwa Adaramola](https://github.com/adaraiyi18)
+- [Sicelo Ntombana](https://github.com/Sicelo-KD)
 - [Abdul Waheed](https://github.com/abdulwaheed76)
 chiu
 - [Mohamed Ali](https://github.com/devbn3li)
@@ -54,7 +55,7 @@ chiu
 - [Marouane-Elgoumiri](https://github.com/Marouane-Elgoumiri) 
 - [Shay Asanova](https://github.com/shay122990)
 - [Nasiff Bello](https://github.com/Nazzcodek)
-- [Michal]
+- [Michal]  
 - [SeahM]
 - [Toan nt2311]
 - [Marvin Romero](https://github.com/Marsmarv)
